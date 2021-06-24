@@ -3,7 +3,6 @@
 |Best Rank: |1882 |
 |Current Rating: |788|
 |Maximum Rating :|1368|
------------------------------
 
 Problems Solved
 - 4A
