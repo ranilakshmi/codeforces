@@ -7,7 +7,8 @@
 
 
 Problems Solved
-|Problem Code|Problem Name|
+
+|Problem Code| Problem Name|
 |4A|[Watermelon](https://codeforces.com/problemset/problem/4/A)|
 |9A|[Die Roll](https://codeforces.com/problemset/problem/9/A)|
 |43A|[Football](https://codeforces.com/problemset/problem/43/A)|
